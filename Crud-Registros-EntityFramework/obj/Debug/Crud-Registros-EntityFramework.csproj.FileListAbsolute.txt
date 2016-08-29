@@ -14,5 +14,17 @@
 \\Mac\Home\Documents\Visual Studio 2013\Projects\EF-CRUD-REP-master\Crud-Registros-EntityFramework\obj\Debug\Crud-Registros-EntityFramework.exe
 \\Mac\Home\Documents\Visual Studio 2013\Projects\EF-CRUD-REP-master\Crud-Registros-EntityFramework\obj\Debug\Crud-Registros-EntityFramework.pdb
 \\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\bin\Debug\Crud-Registros-EntityFramework.exe.config
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\bin\Debug\Crud-Registros-EntityFramework.exe
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\bin\Debug\Crud-Registros-EntityFramework.pdb
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.frmClientes.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.frmConsulta.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.frmFacturar.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.frmProductos.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.frmVendedores.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.Menu.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud_Registros_EntityFramework.Properties.Resources.resources
+\\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud-Registros-EntityFramework.csproj.GenerateResource.Cache
 \\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud-Registros-EntityFramework.exe
 \\Mac\Home\Desktop\Desktop app\Crud-Registros-EntityFramework\obj\Debug\Crud-Registros-EntityFramework.pdb
